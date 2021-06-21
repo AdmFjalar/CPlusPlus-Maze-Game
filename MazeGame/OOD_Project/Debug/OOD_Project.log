@@ -1,0 +1,38 @@
+﻿  cGame.cpp
+C:\Users\olipo\OneDrive\Skrivbord\SLUTINLÄMNINGAR\OOD\OOD_Project\OOD_Project\cGame.cpp(1,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\olipo\OneDrive\Skrivbord\SLUTINLÄMNINGAR\OOD\OOD_Project\OOD_Project\cGame.h(3,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\olipo\OneDrive\Skrivbord\SLUTINLÄMNINGAR\OOD\OOD_Project\OOD_Project\cMaze.h(7,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\olipo\OneDrive\Skrivbord\SLUTINLÄMNINGAR\OOD\OOD_Project\OOD_Project\Player.h(3,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\olipo\OneDrive\Skrivbord\SLUTINLÄMNINGAR\OOD\OOD_Project\OOD_Project\cMaze.h(8,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\olipo\OneDrive\Skrivbord\SLUTINLÄMNINGAR\OOD\OOD_Project\OOD_Project\Collectible.h(2,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\olipo\OneDrive\Skrivbord\SLUTINLÄMNINGAR\OOD\OOD_Project\OOD_Project\cMaze.h(9,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\olipo\OneDrive\Skrivbord\SLUTINLÄMNINGAR\OOD\OOD_Project\OOD_Project\Enemy.h(2,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\olipo\OneDrive\Skrivbord\SLUTINLÄMNINGAR\OOD\OOD_Project\OOD_Project\cGame.h(4,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\olipo\OneDrive\Skrivbord\SLUTINLÄMNINGAR\OOD\OOD_Project\OOD_Project\cGame.cpp(3,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\olipo\OneDrive\Skrivbord\SLUTINLÄMNINGAR\OOD\OOD_Project\OOD_Project\cGame.cpp(4,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  cMaze.cpp
+C:\Users\olipo\OneDrive\Skrivbord\SLUTINLÄMNINGAR\OOD\OOD_Project\OOD_Project\cMaze.h(7,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\olipo\OneDrive\Skrivbord\SLUTINLÄMNINGAR\OOD\OOD_Project\OOD_Project\Player.h(3,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\olipo\OneDrive\Skrivbord\SLUTINLÄMNINGAR\OOD\OOD_Project\OOD_Project\cMaze.h(8,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\olipo\OneDrive\Skrivbord\SLUTINLÄMNINGAR\OOD\OOD_Project\OOD_Project\Collectible.h(2,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\olipo\OneDrive\Skrivbord\SLUTINLÄMNINGAR\OOD\OOD_Project\OOD_Project\cMaze.h(9,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\olipo\OneDrive\Skrivbord\SLUTINLÄMNINGAR\OOD\OOD_Project\OOD_Project\Enemy.h(2,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  Collectible.cpp
+C:\Users\olipo\OneDrive\Skrivbord\SLUTINLÄMNINGAR\OOD\OOD_Project\OOD_Project\Collectible.h(2,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  cVector2.cpp
+  Enemy.cpp
+C:\Users\olipo\OneDrive\Skrivbord\SLUTINLÄMNINGAR\OOD\OOD_Project\OOD_Project\Enemy.h(2,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  OOD_Project.cpp
+C:\Users\olipo\OneDrive\Skrivbord\SLUTINLÄMNINGAR\OOD\OOD_Project\OOD_Project\OOD_Project.cpp(5,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\olipo\OneDrive\Skrivbord\SLUTINLÄMNINGAR\OOD\OOD_Project\OOD_Project\cGame.h(3,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\olipo\OneDrive\Skrivbord\SLUTINLÄMNINGAR\OOD\OOD_Project\OOD_Project\cMaze.h(7,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\olipo\OneDrive\Skrivbord\SLUTINLÄMNINGAR\OOD\OOD_Project\OOD_Project\Player.h(3,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\olipo\OneDrive\Skrivbord\SLUTINLÄMNINGAR\OOD\OOD_Project\OOD_Project\cMaze.h(8,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\olipo\OneDrive\Skrivbord\SLUTINLÄMNINGAR\OOD\OOD_Project\OOD_Project\Collectible.h(2,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\olipo\OneDrive\Skrivbord\SLUTINLÄMNINGAR\OOD\OOD_Project\OOD_Project\cMaze.h(9,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\olipo\OneDrive\Skrivbord\SLUTINLÄMNINGAR\OOD\OOD_Project\OOD_Project\Enemy.h(2,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\olipo\OneDrive\Skrivbord\SLUTINLÄMNINGAR\OOD\OOD_Project\OOD_Project\cGame.h(4,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  Player.cpp
+C:\Users\olipo\OneDrive\Skrivbord\SLUTINLÄMNINGAR\OOD\OOD_Project\OOD_Project\Player.h(3,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  Generating Code...
+  OOD_Project.vcxproj -> C:\Users\olipo\OneDrive\Skrivbord\SLUTINLÄMNINGAR\OOD\OOD_Project\Debug\OOD_Project.exe
